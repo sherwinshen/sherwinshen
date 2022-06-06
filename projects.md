@@ -9,7 +9,6 @@
 3. [data-visualization](https://github.com/sherwinshen/data-visualization)：前端数据可视化指南
    - [data-visualization-report](https://github.com/sherwinshen/data-visualization-report)：前端数据可视化-报表示例（ECharts）
    - [data-visualization-screen](https://github.com/sherwinshen/data-visualization-screen)：前端数据可视化-大屏示例（AntV）
-4. 
 
 **学习项目**
 
