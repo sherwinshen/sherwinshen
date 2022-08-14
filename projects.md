@@ -10,6 +10,10 @@
    - [data-visualization-report](https://github.com/sherwinshen/data-visualization-report)：前端数据可视化-报表示例（ECharts）
    - [data-visualization-screen](https://github.com/sherwinshen/data-visualization-screen)：前端数据可视化-大屏示例（AntV）
 
+**技术项目**
+
+1. [vue3-text-clamp](https://github.com/sherwinshen/vue3-text-clamp)：Vue3 文本溢出组件（含文档站点）
+
 **学习项目**
 
 1. [Front-end_learning_notes](https://github.com/sherwinshen/Front-end_learning_notes)：前端学习之笔记总结和面试指南
